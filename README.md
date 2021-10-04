@@ -5,13 +5,13 @@ Learn scripting and tweak results to your liking. Never let your preference be d
 
 ## Usage
 
-The scripts have been appended a .txt extension to prevent accidental modifications to your data. So that opening them brings up the script in a text editor to view, analyze and customize. Rename and remove the .txt filename extensions and run at your risk.
+For viewing, editing and analysis, explicitly open the files in a text editor. Editing in linux/unix and attempting to execute them in Windows may cause errors due to different line endings. Additionally, if you are a newbie checking out these scripts, it is expected you know the difference between reading, editing and executing a script.
 
 ## Warning
 ```diff
 - Data loss
 ```
 These scripts carry a strong possibility of data loss/ data modification which might be the intended purpose. Make sure you have a basic understanding before running these files.
-The files as provided are safe from execution by virtue of their file extensions. However, any modifications or your setup can lift the safety.
+The files as provided are execution-ready and could result in an accidental run when opened directly.
 
 If you do not understand what it means to run a cmd/batch script, please do not run them. No liability or guarantee is provided.
